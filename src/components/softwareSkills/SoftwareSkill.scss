@@ -1,0 +1,121 @@
+@import "../../_globalColor";
+
+.dev-icons {
+  padding-left: 0px;
+  padding-right: 0px;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  color: $subTitle;
+}
+
+.software-skill-inline > i:hover {
+  color: $skillsColor;
+}
+.software-skill-inline > p {
+  color: $subTitle;
+  font-size: 10px;
+}
+.software-skill-inline > i:hover ~ p {
+  color: $skillsColor;
+}
+
+.custom-pytorch {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/PyTorch.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+.custom-bash {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Bash.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-cpp {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/CPP.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-keras {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Keras.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-pandas {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Pandas.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-opencv {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/OpenCV.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-tensorflow {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/TensorFlow.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-python {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Python.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-ubuntu {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Ubuntu.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-jupyter {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Jupyter.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.custom-scikit {
+  background-color: currentColor; /* Inherit the parent color */
+  mask-image: url('../../assets/icons/Scikit.svg');
+  mask-size: cover;  width: 50px; /* Adjust width */
+  height: 50px; /* Adjust height */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+
