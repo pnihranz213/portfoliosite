@@ -117,7 +117,7 @@ const educationInfo = {
       logo: require("./assets/images/GeorgiaTech.png"),
       subHeader:
         "Master of Science in Computer Science / Master of Science in Analytics",
-      duration: "August 2024 - December 2027",
+      duration: "August 2024 - December 2026",
       desc: "Participated in the research of advanced time-series forecasting models and computer vision algorithms.",
       descBullets: [
         "Bayesian Statistics",
