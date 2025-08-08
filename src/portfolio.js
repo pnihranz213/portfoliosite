@@ -26,7 +26,7 @@ const greeting = {
     "A machine learning engineer having an experience of building successful models using tools like Sci-Kit Learn, Keras, Pytorch, and Tensorflow. I am passionate about mathematics and analytics"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1NKd-Kbll6hzuMj5XlhHlcGZKSqVxnRVn/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/181iPDjw9CcbG-2mIAIkcLsmlXmKV8JxL/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -192,7 +192,7 @@ const workExperiences = {
       role: "Software Validaion Engineer / Data Scientist",
       company: "Magna International",
       companylogo: require("./assets/images/magna.png"),
-      date: "January 2022 – Present",
+      date: "January 2021 – Present",
       descBullets: [
         " Researched, developed, and monitored KPIs for various state-of-the-art computer vision models involving in-cabin driver safety.",
         "Independently created, trained, and validated computer vision models with over 95% accuracy.",
@@ -217,7 +217,7 @@ const workExperiences = {
       role: "Co-Founder and CTO",
       company: "Dabba Eats",
       companylogo: require("./assets/images/dabba.png"),
-      date: "August 2021 – Present",
+      date: "August 2021 – June 2022",
       desc: "Lead the development of a mobile application that connects local chefs with customers in the area.",
       descBullets: [
         "Developed and deployed a mobile application that connects local chefs with customers in the area.",
